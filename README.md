@@ -1,4 +1,4 @@
-<h3 align="center">👨‍💻 Fizemos análise de dados no Petshop Gatito no Power BI</h3>
+<h3 align="center">👨‍💻 Fizemos análise de dados do Petshop Gatito no Power BI</h3>
 
 <div>
   <ul>
