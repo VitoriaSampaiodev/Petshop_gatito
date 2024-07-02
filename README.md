@@ -10,5 +10,6 @@
   </ul>
 </div>
 
+![gatito_petshop](https://github.com/VitoriaSampaiodev/Petshop_gatito/assets/143134992/5aaa7b39-5a5d-402b-9ab1-40e28d5861d8)
 
 
