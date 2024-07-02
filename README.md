@@ -10,8 +10,5 @@
   </ul>
 </div>
 
-<div>
-  <img src="![gatito_petshop](https://github.com/VitoriaSampaiodev/Petshop_gatito/assets/143134992/bb99e2e0-457d-46fd-a8da-bb19ebfeec5e)" />
-</div>
 
 
